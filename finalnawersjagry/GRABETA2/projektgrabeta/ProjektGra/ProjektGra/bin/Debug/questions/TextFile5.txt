@@ -1,0 +1,1 @@
+41;Geografia;Matemtyka;Jaka waluta obowiązuje w Niemczech?;Jaki jest wzór na delte?;Marka Niemiecka;△ = b^2 + 4*a*c;Dolar;△ = 12*c*a*0;Yangi;nie istnieje wzor na delte;Euro;△ = [2*a(3*b*c)]

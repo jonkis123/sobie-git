@@ -1,0 +1,1 @@
+12;Chemia;Biologia;OdpowiedzChemia1;OdpowiedzBiologia1;OdpowiedzChemia2;OdpowiedzBiologia2;OdpowiedzChemia3;OdpowiedzBiologia3;OdpowiedzChemia4;OdpowiedzBiologia4;

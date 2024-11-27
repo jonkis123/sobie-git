@@ -1,0 +1,57 @@
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe.config
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\bin\Debug\ProjektGra.pdb
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.AssemblyReference.cache
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Form1.resources
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Properties.Resources.resources
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.GenerateResource.cache
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.exe
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.pdb
+C:\Users\student\Documents\3tp\TAD10\TAD 04.03\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Resources.Form2.resources
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe.config
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\bin\Debug\ProjektGra.pdb
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Form1.resources
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Properties.Resources.resources
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Resources.Form2.resources
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.GenerateResource.cache
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.exe
+C:\Users\student\Downloads\ProjektGra-20241108T071037Z-001\ProjektGra\ProjektGra\obj\Debug\ProjektGra.pdb
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe.config
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.pdb
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Form1.resources
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Properties.Resources.resources
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Resources.Form2.resources
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.GenerateResource.cache
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.exe
+C:\Users\student\Downloads\beta\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.pdb
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe.config
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.pdb
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.AssemblyReference.cache
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Form1.resources
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Properties.Resources.resources
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Resources.Form2.resources
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.GenerateResource.cache
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.CoreCompileInputs.cache
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.exe
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.pdb
+C:\Users\jono\Downloads\GRABETA2-20241127T150849Z-001\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.form4.resources
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe.config
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.exe
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\bin\Debug\ProjektGra.pdb
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.AssemblyReference.cache
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Form1.resources
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.form4.resources
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Properties.Resources.resources
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.Resources.Form2.resources
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.GenerateResource.cache
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.csproj.CoreCompileInputs.cache
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.exe
+C:\Users\jono\Downloads\finalnawersjagry\GRABETA2\projektgrabeta\ProjektGra\ProjektGra\obj\Debug\ProjektGra.pdb
